@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ryang/CLionProjects/MultAss1/main.cpp
+iostream
+-
+cassert
+-
+cstdlib
+-
+fstream
+-
+string
+-
+
